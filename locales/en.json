@@ -313,5 +313,7 @@
 	"Blocking": "Blocking",
 	"Automatically delete messages from blocked authors. This is irreversible and will cause problems with clients that share the database but do not support deleted messages. Enable at your own risk!": "Automatically delete messages from blocked authors. This is irreversible and will cause problems with clients that share the database but do not support deleted messages. Enable at your own risk!",
 	"Possible connections": "Possible connections",
-	"Connect": "Connect"
+	"Connections": "Connections",
+	"Connect": "Connect",
+	"In order to share with users on the internet, you need to be invited to a pub server or a room server.": "In order to share with users on the internet, you need to be invited to a pub server or a room server."
 }
